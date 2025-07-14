@@ -1,0 +1,142 @@
+{
+  "asia": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-asia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "australia": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-australia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "brazil": {
+    "price": "6.55",
+    "link": "https://esim.holafly.com/es/esim-brasil/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "canada": {
+    "price": "6.55",
+    "link": "https://esim.holafly.com/es/esim-canada/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "china": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/esim-china/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "colombia": {
+    "price": "6.55",
+    "link": "https://esim.holafly.com/es/esim-colombia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "costa rica": {
+    "price": "6.55",
+    "link": "https://esim.holafly.com/es/esim-costa-rica/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "dominican republic": {
+    "price": "6.55",
+    "link": "https://esim.holafly.com/es/esim-republica-dominicana/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "egypt": {
+    "price": "6.55",
+    "link": "https://esim.holafly.com/es/esim-egipto/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "europe": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-europa/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "france": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-francia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "generic": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "germany": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-alemania/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "greece": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-grecia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "iceland": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-islandia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "india": {
+    "price": "8.45",
+    "link": "https://esim.holafly.com/es/esim-india/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "indonesia": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/esim-indonesia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "ireland": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/esim-irlanda/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "italy": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-italia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "japan": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-japon/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "malaysia": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/esim-malasia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "mexico": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/esim-mexico/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "morocco": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-marruecos/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "new zeleand": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/esim-nueva-zelanda/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "peru": {
+    "price": "6.55",
+    "link": "https://esim.holafly.com/es/esim-peru/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "singapore": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/esim-singapur/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "south america": {
+    "price": "8.45",
+    "link": "https://esim.holafly.com/es/esim-america-latina/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "spain": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-espana/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "switzerland": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-suiza/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "thailand": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/esim-tailandia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "turkey": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-turquia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "united arab emirates": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/esim-emiratos-arabes/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "united kingdom": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-reino-unido/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "united states": {
+    "price": "1.89",
+    "link": "https://esim.holafly.com/es/esim-usa/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  },
+  "vietnam": {
+    "price": "5.6",
+    "link": "https://esim.holafly.com/es/esim-vietnam/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=top&utm_campaign=ys"
+  }
+}
