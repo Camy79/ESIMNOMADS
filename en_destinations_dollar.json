@@ -1,0 +1,247 @@
+[
+  {
+    "destination": "Asia",
+    "path": "asia",
+    "url": "https://esim.holafly.com/esim-asia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Asia"
+  },
+  {
+    "destination": "Australia",
+    "path": "australia",
+    "url": "https://esim.holafly.com/esim-australia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Australia"
+  },
+  {
+    "destination": "Brazil",
+    "path": "brazil",
+    "url": "https://esim.holafly.com/esim-brazil/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "7.9$",
+    "label": "Brazil"
+  },
+  {
+    "destination": "Canada",
+    "path": "canada",
+    "url": "https://esim.holafly.com/esim-canada/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "7.9$",
+    "label": "Canada"
+  },
+  {
+    "destination": "China",
+    "path": "china",
+    "url": "https://esim.holafly.com/esim-china/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "China"
+  },
+  {
+    "destination": "Colombia",
+    "path": "colombia",
+    "url": "https://esim.holafly.com/esim-colombia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "7.9$",
+    "label": "Colombia"
+  },
+  {
+    "destination": "Costa Rica",
+    "path": "costa-rica",
+    "url": "https://esim.holafly.com/esim-costa-rica/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "7.9$",
+    "label": "Costa Rica"
+  },
+  {
+    "destination": "Dominican Republic",
+    "path": "dominican-republic",
+    "url": "https://esim.holafly.com/esim-dominican-republic/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "6.9$",
+    "label": "Dominican Republic"
+  },
+  {
+    "destination": "Egypt",
+    "path": "egypt",
+    "url": "https://esim.holafly.com/esim-egypt/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "7.9$",
+    "label": "Egypt"
+  },
+  {
+    "destination": "Europe",
+    "path": "europe",
+    "url": "https://esim.holafly.com/esim-europe/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Europe"
+  },
+  {
+    "destination": "France",
+    "path": "france",
+    "url": "https://esim.holafly.com/esim-france/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "France"
+  },
+  {
+    "destination": "Generic",
+    "path": "best-esim",
+    "url": "https://esim.holafly.com/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Generic"
+  },
+  {
+    "destination": "Germany",
+    "path": "germany",
+    "url": "https://esim.holafly.com/esim-germany/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Germany"
+  },
+  {
+    "destination": "Greece",
+    "path": "greece",
+    "url": "https://esim.holafly.com/esim-greece/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Greece"
+  },
+  {
+    "destination": "Iceland",
+    "path": "iceland",
+    "url": "https://esim.holafly.com/esim-iceland/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Iceland"
+  },
+  {
+    "destination": "India",
+    "path": "india",
+    "url": "https://esim.holafly.com/esim-india/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "8.9$",
+    "label": "India"
+  },
+  {
+    "destination": "Indonesia",
+    "path": "indonesia",
+    "url": "https://esim.holafly.com/esim-indonesia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Indonesia"
+  },
+  {
+    "destination": "Ireland",
+    "path": "ireland",
+    "url": "https://esim.holafly.com/esim-ireland/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "6.9$",
+    "label": "Ireland"
+  },
+  {
+    "destination": "Italy",
+    "path": "italy",
+    "url": "https://esim.holafly.com/esim-italy/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Italy"
+  },
+  {
+    "destination": "Japan",
+    "path": "japan",
+    "url": "https://esim.holafly.com/esim-japan/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Japan"
+  },
+  {
+    "destination": "Malaysia",
+    "path": "malaysia",
+    "url": "https://esim.holafly.com/esim-malaysia/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Malaysia"
+  },
+  {
+    "destination": "Mexico",
+    "path": "mexico",
+    "url": "https://esim.holafly.com/esim-mexico/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "6.9$",
+    "label": "Mexico"
+  },
+  {
+    "destination": "Morocco",
+    "path": "morocco",
+    "url": "https://esim.holafly.com/esim-morocco/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Morocco"
+  },
+  {
+    "destination": "New Zeleand",
+    "path": "new-zealand",
+    "url": "https://esim.holafly.com/esim-new-zealand/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "New Zeleand"
+  },
+  {
+    "destination": "Peru",
+    "path": "peru",
+    "url": "https://esim.holafly.com/esim-peru/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "7.9$",
+    "label": "Peru"
+  },
+  {
+    "destination": "Singapore",
+    "path": "singapore",
+    "url": "https://esim.holafly.com/esim-singapore/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Singapore"
+  },
+  {
+    "destination": "South America",
+    "path": "south-america",
+    "url": "https://esim.holafly.com/esim-latin-america/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "9.9$",
+    "label": "South America"
+  },
+  {
+    "destination": "Spain",
+    "path": "spain",
+    "url": "https://esim.holafly.com/esim-spain/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Spain"
+  },
+  {
+    "destination": "Switzerland",
+    "path": "switzerland",
+    "url": "https://esim.holafly.com/esim-switzerland/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Switzerland"
+  },
+  {
+    "destination": "Thailand",
+    "path": "thailand",
+    "url": "https://esim.holafly.com/esim-thailand/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Thailand"
+  },
+  {
+    "destination": "Turkey",
+    "path": "turkey",
+    "url": "https://esim.holafly.com/esim-turkey/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Turkey"
+  },
+  {
+    "destination": "United Arab Emirates",
+    "path": "united-arab-emirates",
+    "url": "https://esim.holafly.com/esim-arab-emirates/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "6.9$",
+    "label": "United Arab Emirates"
+  },
+  {
+    "destination": "United Kingdom",
+    "path": "united-kingdom",
+    "url": "https://esim.holafly.com/esim-united-kingdom/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "United Kingdom"
+  },
+  {
+    "destination": "United States",
+    "path": "united-states",
+    "url": "https://esim.holafly.com/esim-usa/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "United States"
+  },
+  {
+    "destination": "Vietnam",
+    "path": "vietnam",
+    "url": "https://esim.holafly.com/esim-vietnam/?discount=ESIMNOMADS5&utm_source=esimnomads&utm_medium=lp&utm_campaign=ys",
+    "price": "1.99$",
+    "label": "Vietnam"
+  }
+]
