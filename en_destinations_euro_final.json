@@ -1,0 +1,50 @@
+[
+  {
+    "destination": "Asia",
+    "path": "asia",
+    "price": "From €1.99",
+    "fallback": "From €1.99"
+  },
+  {
+    "destination": "Australia",
+    "path": "australia",
+    "price": "From €1.99",
+    "fallback": "From €1.99"
+  },
+  {
+    "destination": "Brazil",
+    "path": "brazil",
+    "price": "From €6.90",
+    "fallback": "From €6.90"
+  },
+  {
+    "destination": "Canada",
+    "path": "canada",
+    "price": "From €6.90",
+    "fallback": "From €6.90"
+  },
+  {
+    "destination": "China",
+    "path": "china",
+    "price": "From €1.99",
+    "fallback": "From €1.99"
+  },
+  {
+    "destination": "Dominican Republic",
+    "path": "dominican-republic",
+    "price": "From €6.90",
+    "fallback": "From €6.90"
+  },
+  {
+    "destination": "Japan",
+    "path": "japan",
+    "price": "From €1.99",
+    "fallback": "From €1.99"
+  },
+  {
+    "destination": "France",
+    "path": "france",
+    "price": "From €1.99",
+    "fallback": "From €1.99"
+  }
+]
